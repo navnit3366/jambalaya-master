@@ -1,0 +1,11 @@
+0. python 3.6
+1. spacy
+2. rake-nltk
+3. nltk
+4. Graphene (https://github.com/Lambda-3/Graphene#requirements)
+4a. Java 8 (OpenJDK or Oracle)
+4b. Maven 3.3.9
+4c. Docker version 17.03+
+4d. docker-compose version 1.12+
+5. Cort
+6. neuralcoref
